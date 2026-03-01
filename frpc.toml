@@ -5,7 +5,7 @@ auth.method = "token"
 auth.token = "alovuavu"
 
 [[proxies]]
-name = "testttt"
+name = "testttt2"
 type = "tcp"
 localIP = "127.0.0.1"
 localPort = 3389
