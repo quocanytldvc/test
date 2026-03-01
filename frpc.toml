@@ -5,8 +5,8 @@ auth.method = "token"
 auth.token = "alovuavu"
 
 [[proxies]]
-name = "quocanyt-coreu9-vnc"
+name = "testttt"
 type = "tcp"
 localIP = "127.0.0.1"
-localPort = 5900
-remotePort = 20001
+localPort = 3389
+remotePort = 0
