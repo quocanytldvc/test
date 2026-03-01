@@ -1,0 +1,12 @@
+serverAddr = "84.247.147.49"
+serverPort = 7000
+
+auth.method = "token"
+auth.token = "alovuavu"
+
+[[proxies]]
+name = "quocanyt-coreu9-vnc"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 5900
+remotePort = 20001
